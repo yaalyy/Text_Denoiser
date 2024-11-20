@@ -31,3 +31,6 @@ decoder:
   (3): ReLU()  
   (4): Conv2d(64, 3, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))  
   (5): Sigmoid()    
+
+## Demo
+![demo](./static/example.png "demo")
