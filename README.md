@@ -34,3 +34,6 @@ decoder:
 
 ## Demo
 ![demo](./static/example.png "demo")
+
+## LICENSE
+This project is licensed under the Apache License, Version 2.0. See the LICENSE file in the root directory for more details.
