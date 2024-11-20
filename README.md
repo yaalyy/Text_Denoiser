@@ -4,6 +4,8 @@ This denoiser extracts only text from the image by filtering the irrelevant back
 ## Limitation
 This network only accept the input size of 128 X 128. The image over this size might need to be split and then merge. However, this solution makes the final image have some pixel distortion. More reliable solution is still being exploring.   
 Colourful text images are not yet tested, currently only grayscale texts are ensured to be valid. Colourful input might produce unwanted result.  
+## Dependency  
+Pytorch 2.5
 ## Network Structure
 
 encoder:  
